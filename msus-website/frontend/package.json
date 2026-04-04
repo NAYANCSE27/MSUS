@@ -1,0 +1,48 @@
+{
+  "name": "msus-frontend",
+  "version": "1.0.0",
+  "description": "Frontend for MSUS Website",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "analyze": "cross-env ANALYZE=true next build"
+  },
+  "dependencies": {
+    "@headlessui/react": "^1.7.17",
+    "@heroicons/react": "^2.0.18",
+    "axios": "^1.6.2",
+    "clsx": "^2.0.0",
+    "date-fns": "^2.30.0",
+    "framer-motion": "^10.16.16",
+    "next": "14.0.4",
+    "next-pwa": "^5.6.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-hook-form": "^7.49.2",
+    "react-hot-toast": "^2.4.1",
+    "react-icons": "^4.12.0",
+    "react-intersection-observer": "^9.5.3",
+    "react-query": "^3.39.3",
+    "react-share": "^5.0.3",
+    "swiper": "^11.0.5",
+    "tailwind-merge": "^2.2.0",
+    "zustand": "^4.4.7"
+  },
+  "devDependencies": {
+    "@next/bundle-analyzer": "^14.0.4",
+    "@tailwindcss/forms": "^0.5.7",
+    "@tailwindcss/typography": "^0.5.10",
+    "@types/node": "^20.10.5",
+    "@types/react": "^18.2.45",
+    "autoprefixer": "^10.4.16",
+    "cross-env": "^7.0.3",
+    "eslint": "^8.56.0",
+    "eslint-config-next": "14.0.4",
+    "postcss": "^8.4.32",
+    "tailwindcss": "^3.4.0",
+    "typescript": "^5.3.3"
+  }
+}
