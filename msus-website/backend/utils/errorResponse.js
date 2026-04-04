@@ -1,4 +1,3 @@
-/
 /**
  * Custom Error Response Class
  * Extends Error with status code

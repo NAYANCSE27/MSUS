@@ -1,4 +1,3 @@
-/
 /**
  * Authentication Middleware
  * Protects routes and checks user roles
