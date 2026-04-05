@@ -1,4 +1,3 @@
-/
 /**
  * Email Utility
  * Sends emails using nodemailer

@@ -1,4 +1,3 @@
-/
 /**
  * Database Seeder
  * Seeds the database with initial data
